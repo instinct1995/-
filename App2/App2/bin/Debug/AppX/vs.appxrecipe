@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-7G83B41</Machine>
+    <WindowsUser>temaz</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>59319e56-bc62-4ce8-bbe1-2b711f545efd</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\temaz\Desktop\Интеллектуальные системы\Лабы\1 лаба\App2\App2\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>73F3C0FFE7E794F31B388519201A7D5BF6BE167E3372BBF65202754BFA6D7969</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>59319e56-bc62-4ce8-bbe1-2b711f545efd_1.0.0.0_neutral__yps17xarsp2at</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>59319e56-bc62-4ce8-bbe1-2b711f545efd_yps17xarsp2at!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>59319e56-bc62-4ce8-bbe1-2b711f545efd</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=test</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\temaz\Desktop\Интеллектуальные системы\Лабы\1 лаба\App2\App2\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-05-10T11:03:49.227</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\temaz\Desktop\Интеллектуальные системы\Лабы\1 лаба\App2\App2\bin\Debug\App2.exe">
+      <PackagePath>App2.exe</PackagePath>
+      <Modified>2016-05-11T10:18:15.407</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\BehaviorsXamlSDKManaged\12.0\References\CommonConfiguration\Neutral\Microsoft.Xaml.Interactions.dll">
+      <PackagePath>Microsoft.Xaml.Interactions.dll</PackagePath>
+      <Modified>2014-04-29T09:23:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\BehaviorsXamlSDKManaged\12.0\References\CommonConfiguration\Neutral\Microsoft.Xaml.Interactivity.dll">
+      <PackagePath>Microsoft.Xaml.Interactivity.dll</PackagePath>
+      <Modified>2014-04-29T09:23:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\temaz\Desktop\Интеллектуальные системы\Лабы\1 лаба\App2\App2\1.png">
+      <PackagePath>1.png</PackagePath>
+      <Modified>2016-02-12T13:28:55.619</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\temaz\Desktop\Интеллектуальные системы\Лабы\1 лаба\App2\App2\3.png">
+      <PackagePath>3.png</PackagePath>
+      <Modified>2016-02-12T15:01:49.919</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\temaz\Desktop\Интеллектуальные системы\Лабы\1 лаба\App2\App2\4.png">
+      <PackagePath>4.png</PackagePath>
+      <Modified>2016-02-12T13:32:12.848</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\temaz\Desktop\Интеллектуальные системы\Лабы\1 лаба\App2\App2\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-23T14:36:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\temaz\Desktop\Интеллектуальные системы\Лабы\1 лаба\App2\App2\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-23T14:36:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\temaz\Desktop\Интеллектуальные системы\Лабы\1 лаба\App2\App2\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-23T14:36:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\temaz\Desktop\Интеллектуальные системы\Лабы\1 лаба\App2\App2\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-23T14:36:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\temaz\Desktop\Интеллектуальные системы\Лабы\1 лаба\App2\App2\product_717.png">
+      <PackagePath>product_717.png</PackagePath>
+      <Modified>2016-02-11T19:30:24.066</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\temaz\Desktop\Интеллектуальные системы\Лабы\1 лаба\App2\App2\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2016-03-08T15:13:58.034</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\temaz\Desktop\Интеллектуальные системы\Лабы\1 лаба\App2\App2\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2016-05-11T10:18:15.132</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\temaz\Desktop\Интеллектуальные системы\Лабы\1 лаба\App2\App2\bin\Debug\App2.xr.xml">
+      <PackagePath>App2.xr.xml</PackagePath>
+      <Modified>2016-05-11T10:18:15.098</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\temaz\Desktop\Интеллектуальные системы\Лабы\1 лаба\App2\App2\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-05-10T11:03:48.877</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
